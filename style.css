@@ -1,0 +1,16 @@
+.NW{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 1.6em;
+    row-gap: 1.6em;
+}
+
+.NWpns{
+    position: relative;
+    width: 65%;
+    height: 50em;
+    border: solid 1px black;
+    border-radius: 3%;
+}
