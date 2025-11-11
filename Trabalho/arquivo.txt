@@ -1,0 +1,62 @@
+<div class="card-group">
+
+        <div class="card w-75">
+            <img src="imagens/tabaco.avif" class="card-img-top" alt="Platação de tabaco">
+            <div class="card-body">
+                <h5 class="card-title">Tarifaço dos EUA ameaça início da colheita de tabaco e milhões em exportações no
+                    RS
+                </h5>
+                <p class="card-text">Em 2024, o país norte-americano foi o terceiro maior comprador no estado,
+                    movimentando mais de US$ 245 milhões.</p>
+                <a href="#" class="btn btn-primary">Veja a matéria</a>
+            </div>
+        </div>
+
+        <div class="card w-25">
+            <img src="imagens/desvio de recursos.avif" class="card-img-top"
+                alt="Polícia na frente de um estabelecimento">
+            <div class="card-body">
+                <h5 class="card-title">PF mira desvios de recursos para recuperação de enchente</h5>
+                <p class="card-text">Um dos alvos é Marcelo Caumo, atual secretário de Desenvolvimento Urbano e
+                    Metropolitano do RS. Ele foi prefeito da cidade entre 2017 e 2023. PF investiga contratos da gestão
+                    dele como procurador-geral que foram firmados após a enchente de 2024.</p>
+                <a href="#" class="btn btn-primary">Veja a matéria</a>
+            </div>
+        </div>
+
+        <div class="card w-25">
+            <img src="imagens/duna.avif" class="card-img-top" alt="Duna de uma casa">
+            <div class="card-body">
+                <h5 class="card-title">Mais uma praia do estado sofre com avanço de dunas sobre casas; solução pode
+                    envolver trocar areia e vegetação de lugar</h5>
+                <p class="card-text">Moradores relatam prejuízos e risco de desabamento. Prefeitura faz manejo com
+                    replantio de vegetação nativa, mas solução é paliativa</p>
+                <a href="#" class="btn btn-primary">Veja a matéria</a>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="card w-50 mb-3">
+        <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Button</a>
+        </div>
+    </div>
+
+    <div class="card w-25 mb-3">
+        <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Button</a>
+        </div>
+    </div>
+
+    <div class="card w-25 mb-3">
+        <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
+            <a href="#" class="btn btn-primary">Button</a>
+        </div>
+    </div>
