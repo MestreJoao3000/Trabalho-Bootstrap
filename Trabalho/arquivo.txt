@@ -1,0 +1,41 @@
+<div class="card mb-3" style="max-width: 45rem;">
+            <div class="row g-0">
+                <div class="col-md-4">
+                    <img src="/imagens/pl antifaccao.avif" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">'Não estamos mexendo na lei antiterrorismo', diz Motta sobre PL Antifacção</h5>
+                        <p class="card-text"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card">
+                <img src="/imagens/pl antifaccao.avif" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">'Não estamos mexendo na lei antiterrorismo', diz Motta sobre PL Antifacção
+                    </h5>
+                    <p class="card-text">Em entrevista ao Estúdio i, o presidente da Câmara deputado federal Hugo Motta
+                        (Republicanos-PB) disse que o relator Guilherme Derrite (PP-SP) vai apresentar as últimas
+                        modificações no texto do PL Antifacção na reunião de líderes na tarde desta terça (18).</p>
+                    <a href="#" class="btn btn-primary">Veja matéria</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card">
+                <img src="/imagens/pl antifaccao.avif" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">'Não estamos mexendo na lei antiterrorismo', diz Motta sobre PL Antifacção
+                    </h5>
+                    <p class="card-text">Em entrevista ao Estúdio i, o presidente da Câmara deputado federal Hugo Motta
+                        (Republicanos-PB) disse que o relator Guilherme Derrite (PP-SP) vai apresentar as últimas
+                        modificações no texto do PL Antifacção na reunião de líderes na tarde desta terça (18).</p>
+                    <a href="#" class="btn btn-primary">Veja matéria</a>
+                </div>
+            </div>
+        </div>

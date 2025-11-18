@@ -1,0 +1,75 @@
+section{
+    position: relative;
+    background-color: green;
+    text-align: center;
+}
+
+.MBitens{
+    position: absolute;
+    border: solid 3px rgb(14, 196, 141);
+    background-color: rgb(14, 196, 141);
+    color: black;
+    text-decoration: none;
+}
+
+#MBitens1{
+    left: 1%;
+    bottom: 18%;
+    border-radius: 10%;
+}
+
+#MBitens2{
+    left: 5.8%;
+    bottom: 18%;
+    border-radius: 12%;
+}
+
+#MBitens3{
+    left: 11.3%;
+    bottom: 18%;
+    border-radius: 9%;
+}
+
+#MBitens4{
+    left: 1%;
+    bottom: 18%;
+    border-radius: 10%;
+}
+
+#MBitens5{
+    left: 4.8%;
+    bottom: 18%;
+    border-radius: 12%;
+}
+
+#MBitens6{
+    left: 10.3%;
+    bottom: 18%;
+    border-radius: 9%;
+}
+
+#MBitens7{
+    left: 5.8%;
+    bottom: 18%;
+    border-radius: 12%;
+}
+
+#MBitens8{
+    left: 9.7%;
+    bottom: 18%;
+    border-radius: 9%;
+}
+
+#MBitens9{
+    left: 11.35%;
+    bottom: 18%;
+    border-radius: 9%;
+}
+
+.MBitens:hover{
+    transform: scale(1.1);
+}
+
+.carrtext{
+    color: rgb(10, 179, 128);
+}
